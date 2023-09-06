@@ -1,0 +1,16 @@
+finetuned_bart_medical/
+logs/
+medical_gpt2_finetuned/
+medical_t5_finetuned/
+t5_logs/
+cached_lm_GPT2Tokenizer_128_gpt_2_formatted_dataset.txt
+cached_lm_GPT2Tokenizer_128_gpt_2_formatted_dataset.txt.lock
+cleaned_medical_dialogues_dataset.json
+en_medical_dialog.json
+gpt_2_formatted_dataset.txt
+med_chatbot_tokenized_text.csv
+medical_encoder_LSTM.h5
+.ipynb_checkpoints/
+ngrok
+
+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
